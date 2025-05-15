@@ -1,5 +1,5 @@
 # Smart Surveillance: Real-Time Face Mask Detection Using MobileNetV2
-This project implements a real-time face mask detection system using deep learning and computer vision. Leveraging the MobileNetV2 , the system detects whether a person is wearing a mask or not using live video input from a webcam or video stream.
+This project implements a real-time face mask detection system using deep learning and computer vision. Leveraging the MobileNetV2 , the system detects whether a person is wearing a mask or not using live video input from a webcam or video stream.<br>
 🚀 Features
 Real-time face detection using Haar Cascade classifiers (OpenCV)
 Mask classification using fine-tuned MobileNetV2
